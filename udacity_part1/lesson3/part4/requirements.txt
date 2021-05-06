@@ -59,7 +59,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==3.0.4
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 gazebo-plugins==2.5.14
 gazebo-ros==2.5.14
 gencpp==0.6.0
